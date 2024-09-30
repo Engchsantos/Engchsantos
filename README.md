@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Engchsantos
 - 👀 I’m interested in improve my coding skills
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any project that can provide me knowledge in coding.
 - 📫 How to reach me : engchsantos@gmail.com
 
 <!---
